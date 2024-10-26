@@ -10,4 +10,5 @@ WEBSITE_LOCAL_CACHE_OPTION=Never
 
 
 **Post-deployment inline script in the Release pipeline**
+
 cp -rf /home/site/wwwroot/package/* /home/site/wwwroot/
